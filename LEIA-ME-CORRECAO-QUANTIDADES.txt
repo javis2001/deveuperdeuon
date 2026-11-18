@@ -1,0 +1,1 @@
+Correção: mantido somente seletor superior original de js/referencia-fiel.js. Removida inclusão e arquivo js/quantidades.js que criava seletor duplicado. Botões originais passam qtd=1,2,3 ao checkout, que calcula valores pelo catálogo. Pixel e UTMify preservados. Testar 9 combinações e valor do Pix em ambiente de teste antes de publicar.
